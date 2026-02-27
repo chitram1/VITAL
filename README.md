@@ -8,3 +8,4 @@ Steps 1-5 delineated in the CaseOLAP repository are for getting the data set up 
 Step 6 and onward are unique to the experiment that is described in our research paper with the specific categories and entities of interest that we will be using. 
 
 The VITAL_Experiment.ipynb contains all of the diagram code assuming the necessary files are in the directories for the comorbidities, mechanisms, and 6 heart diseases.
+Zipped directories for the mechanisms, comorbidities, and heart diseases are included which contain all of the necessary files to run the code locally.
